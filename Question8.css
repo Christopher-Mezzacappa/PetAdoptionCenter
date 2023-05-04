@@ -1,0 +1,393 @@
+
+.body{
+    background-color:rgb(247, 229, 198);
+    margin:0px;
+    margin-bottom:0;
+}
+
+.text-center{
+	text-align:center;
+	color:orange;
+}
+
+.header{
+	position:relative;
+    border:solid black;
+	color:black;
+	text-align:center;
+	background-color:lightskyblue;
+	height:125px;
+	width:100%;
+	margin-left:0px;
+	margin-right:0px;
+	
+}
+.headerC1{
+    position:fixed;
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:x-large;
+    position:relative;
+    top:0px;
+
+}
+.logo{
+    position:relative;
+    bottom:110px;
+    left:430px;
+    border:solid;
+    width:auto;
+    height:100px;
+    
+}
+
+.pMenu{
+	text-align:center;
+}
+.side-menu{
+	
+	position:fixed;
+    
+	background-color:lightgrey;
+	margin-right:80px;
+	border:solid black;
+	width:250px;
+    height:720px;
+   
+}
+
+.navBar{
+    padding-bottom:px;
+    background-color:white;
+}
+a{
+    text-decoration-style:none;
+}
+
+.button1{
+    position:absolute;
+    left: 675px;
+    top:300px;
+    font-size:40px;
+
+}
+
+.button2{
+    position:absolute;
+    left:1150px;
+    top:300px;
+    font-size:40px;
+}
+
+.homePicture{
+    top:400px;
+    right:600px;
+}
+
+.dogs{
+    position:absolute;
+    width:400px;
+    height:200px;
+    border-radius:50px;
+    border:solid black;
+    margin-left:550px;
+    margin-top:250px;
+}
+
+#button1{
+    font-size:30px;
+    position:absolute;
+    left:px;
+    top:300px;
+    width:150px;
+    height:50px;
+    
+    
+}
+
+#button2{
+    font-size:30px;
+    position:absolute;
+    left:1160px;
+    top:300px;
+    width:150px;
+    height:50px;
+   
+}
+
+.catDog{
+    position:absolute;
+    width:400px;
+    height:200px;
+    border-radius:50px;
+    border:solid black;
+    left:1000px;
+    top:380px;
+}
+
+
+.aboutUs{
+    position:relative;
+    font-family:'Times New Roman', Times, serif;
+    top:650px;
+    left:450px;
+    font-size:20px;
+    border:solid black;
+    margin-right:750px;
+   
+
+}
+
+.contentArea{
+    
+    margin-bottom:800px;
+}
+
+.footer{
+    background-color:rgb(92, 113, 228);
+    position:relative;
+    top:350px;
+    padding-bottom:150px;
+
+}
+
+.privacy{
+    position:relative;
+    margin-left:600px;
+    color:rgb(206, 12, 12);
+}
+#privacyMessage{
+    margin-left:400px;
+    margin-top:30px;
+    font-size:30px;
+    width:500px;
+}
+
+.maintenance{
+    margin-left:300px;
+    font-size:30px;
+}
+
+#listSizePriv{
+    font-size:20px;
+}
+.footer-content{
+    position:absolute;
+    left:50px;
+
+}
+
+.find-a-dog{
+    font-size:30px;
+    position:relative;
+    top:100px;
+    margin-right:700px;
+    left:400px;
+    
+}
+
+.dogCare{
+
+    position:relative;
+    left:600px;
+    top:80px;
+
+
+
+}
+
+.dgImg1{
+    position:relative;
+    top:150px;
+    left:800px;
+   
+}
+
+.dgImg{
+    width:auto;
+    height:300px;
+    border:solid black;
+    border-radius:40px;
+}
+
+.forumGiveAway{
+   width:500px;
+   height:200px;
+   margin-top:100px;
+   margin-bottom:600px;
+   margin-left:600px;
+}
+
+.commentBox{
+
+    width:300px;
+    height:100px;
+
+}
+
+
+.pWrapper{
+    position:absolute;
+    width:300px;
+    top:350px;
+    margin-left:350px;
+    
+    font-size:30px;
+    
+}
+
+.dog-links{
+    color:rgb(42, 156, 201);
+}
+
+.disclaimer{
+    color:red;
+    background-color:rgb(92, 113, 228);
+    border-style:none;
+    font-size:14px;
+}
+ul{
+	list-style:none;
+}
+
+
+li{
+	padding-top: 30px;
+	padding-bottom: 30px;
+
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+.activeList:hover{
+    color:green;
+}
+
+.activeList{
+    color:green;
+}
+
+a:hover{
+    color:blue;
+}
+
+
+
+
+
+ol{
+
+	list-style-type:lower-roman;
+
+
+}
+
+
+
+
+
+
+/* Assigment 2 additions below */
+
+
+#time{
+    position:absolute;
+    left:10px;
+    top:20px;
+}
+
+#listOfPets{
+    position:absolute;
+    left:400px;
+}
+
+.adoptionPageList{
+    list-style-type:none;
+}
+.adoptionImages{
+    
+    position:relative;
+    width:250px;
+    height:200px;
+    margin:0px;
+    border-radius:100px;
+   
+}
+
+#dog1{
+    position:absolute;
+    right:20px;
+}
+
+#list1{
+    list-style-type:none;
+    position:absolute;
+    top:30px;
+    left:270px;
+    
+}
+.adoptList{
+    padding:5px;
+    width:300px;
+}
+
+
+#list2{
+    list-style-type:none;
+    position:absolute;
+    top:300px;
+    left:270px;
+}
+
+#list3{
+    list-style-type:none;
+    position:absolute;
+    top:570px;
+    left:270px;
+}
+
+#list4{
+    
+    list-style-type:none;
+    position:absolute;
+    top:830px;
+    left:270px;
+}
+
+#intrested1{
+    position:absolute;
+    top:240px;
+    left:310px;
+}
+
+#intrested2{
+    position:absolute;
+    top:500px;
+    left:310px;
+}
+
+#intrested3{
+    position:absolute;
+    top:790px;
+    left:310px;
+}
+
+#intrested4{
+    position:absolute;
+    top:1030px;
+    left:310px;
+}
+
+
+
+#logInSource{
+    font-size:20px;
+    position:absolute;
+    color:green;
+    left:290px;
+    top:150px;
+    
+}

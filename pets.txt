@@ -1,0 +1,30 @@
+1;Dog::poodle::1:male:Dogs:Cats:Small children:No::chris mezzacappa:christophermezzacappa818@yahoo.ca
+2;Dog::poodle::1:male:Dogs:Cats:Small children:No::Chris Mezzacappa:christophermezzacappa818@yahoo.ca
+3;Dog::LOLOL::1:MALE:Dogs:Cats:Small children:No::christopher mezzacappa:christophermezzacappa818@yahoo.ca
+4;Dog::LOLOL::1:MALE:Dogs:Cats:Small children:No::christopher mezzacappa:christophermezzacappa818@yahoo.ca
+5;:::::::::No:::
+6;Dog::Poodle::1:male:Dogs:Cats:Small children:No::Christopher Mezzacappa:christophermezzacappa818@yahoo.ca
+7;:::::::::No:::
+8;:::::::::No:::
+9;:::::::::No:::
+10;:::::::::No:::
+11;:::::::::No:::
+12;:::::::::No:::
+13;:::::::::No:::
+14;:::::::::No:::
+15;:::::::::No:::
+16;:::::::::No:::
+17;:::::::::No:::
+18;:::::::::No:::
+19;:::::::::No:::
+20;:::::::::No:::
+21;:::::::::No:::
+22;:::::::::No:::
+23;:::::::::No:::
+24;:::::::::No:::
+25;:::::::::No:::
+26;:::::::::No:::
+1;:::::::::No:::
+2;:::::::::No:::
+3;Dog::poodle::1:male:Dogs:Cats:Small children:No::Elena Soumas:christophermezzacappa818@gmail.com
+27;:::::::::No:::
